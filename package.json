@@ -1,0 +1,31 @@
+{
+  "name": "hfs",
+  "version": "0.0.0",
+  "description": "HFS+ File System Driver",
+  "license": "MIT",
+  "keywords": [
+    "hfs",
+    "hfs+",
+    "apple",
+    "osx",
+    "fs",
+    "file",
+    "system",
+    "driver"
+  ],
+  "main": "lib/hfs",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-hfs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-hfs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-hfs/issues"
+  }
+}
