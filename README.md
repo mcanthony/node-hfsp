@@ -1,15 +1,17 @@
 # HFS
-[![npm](http://img.shields.io/npm/v/hfs.svg?style=flat-square)](https://npmjs.com/hfs)
-[![npm downloads](http://img.shields.io/npm/dm/hfs.svg?style=flat-square)](https://npmjs.com/hfs)
-[![build status](http://img.shields.io/travis/jhermsmeier/node-hfs.svg?style=flat-square)](https://travis-ci.org/jhermsmeier/node-hfs)
+[![npm](http://img.shields.io/npm/v/hfsp.svg?style=flat-square)](https://npmjs.com/hfsp)
+[![npm downloads](http://img.shields.io/npm/dm/hfsp.svg?style=flat-square)](https://npmjs.com/hfsp)
+[![build status](http://img.shields.io/travis/jhermsmeier/node-hfsp.svg?style=flat-square)](https://travis-ci.org/jhermsmeier/node-hfsp)
 
 ## Install via [npm](https://npmjs.com)
 
 ```sh
-$ npm install jhermsmeier/hfs
+$ npm install jhermsmeier/hfsp
 ```
 
 ## Terminology
 
-- **MDB**: Master Directory Block
-- **FUA**: Force-Unit-Access
+| | |
+|-|-|
+| MDB | Master Directory Block |
+| FUA | Force-Unit-Access |

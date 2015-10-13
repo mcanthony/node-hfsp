@@ -1,11 +1,12 @@
 {
-  "name": "hfs",
+  "name": "hfsp",
   "version": "0.0.0",
   "description": "HFS+ File System Driver",
   "license": "MIT",
   "keywords": [
     "hfs",
     "hfs+",
+    "hfs plus",
     "apple",
     "osx",
     "fs",
@@ -24,12 +25,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/jhermsmeier/node-hfs",
+  "homepage": "https://github.com/jhermsmeier/node-hfsp",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhermsmeier/node-hfs.git"
+    "url": "git+https://github.com/jhermsmeier/node-hfsp.git"
   },
   "bugs": {
-    "url": "https://github.com/jhermsmeier/node-hfs/issues"
+    "url": "https://github.com/jhermsmeier/node-hfsp/issues"
   }
 }
