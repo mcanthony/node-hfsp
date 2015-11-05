@@ -11,7 +11,7 @@ $ npm install jhermsmeier/hfsp
 
 ## Terminology
 
-| | |
-|-|-|
+|     |                        |
+|-----|------------------------|
 | MDB | Master Directory Block |
 | FUA | Force-Unit-Access |
